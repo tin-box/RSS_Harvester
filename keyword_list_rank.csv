@@ -1,0 +1,566 @@
+﻿keyword,priority,prinum,modifier
+0 day,AlertFive,5,1
+A risk of,AlertFour,4,1
+Access Control,AlertOne,1,1
+Access Control List ,AlertOne,1,1
+Access Control Service,AlertOne,1,1
+Access Management Access,AlertOne,1,1
+Access Matrix,AlertOne,1,1
+Account Harvesting,AlertFour,4,1
+ACK Piggybacking,AlertFour,4,1
+ACL,AlertOne,1,1
+Active Content,AlertFour,4,1
+Activity Monitors,AlertTwo,2,1
+Address Resolution Protocol,AlertOne,1,1
+Advanced Encryption Standard ,AlertFour,4,1
+AES,AlertOne,1,1
+Algorithm,AlertOne,1,1
+Applet,AlertOne,1,1
+ARP,AlertOne,1,1
+ARPANET,AlertOne,1,1
+Asymmetric Cryptography,AlertOne,1,1
+Asymmetric Warfare,AlertOne,1,1
+Attack,AlertThree,3,1
+Auditing,AlertOne,1,1
+Authentication,AlertOne,1,1
+Authenticity,AlertTwo,2,1
+Authorization,AlertOne,1,1
+Autonomous System,AlertTwo,2,1
+Availability,AlertOne,1,1
+Backdoor,AlertFive,5,1
+Bandwidth,AlertOne,1,1
+Banner,AlertOne,1,1
+Basic Authentication,AlertTwo,2,1
+Bastion Host,AlertTwo,2,1
+BCP,AlertOne,1,1
+BGP,AlertOne,1,1
+BIA,AlertOne,1,1
+BIND,AlertTwo,2,1
+Biometrics,AlertOne,1,1
+Bit,AlertOne,1,1
+Block Cipher,AlertTwo,2,1
+Blue Team,AlertOne,1,1
+Boot Record Infector,AlertTwo,2,1
+Border Gateway Protocol ,AlertTwo,2,1
+Botnet,AlertThree,3,1
+Botnet,AlertTwo,2,1
+Breach,AlertFive,5,1
+Bridge,AlertOne,1,1
+British Standard 7799,AlertTwo,2,1
+Broadcast,AlertTwo,2,1
+Broadcast Address,AlertTwo,2,1
+Browser,AlertOne,1,1
+Brute Force,AlertFour,4,1
+Buffer Overflow,AlertFive,5,1
+Buffer Overflow,AlertTwo,2,1
+Business Continuity Plan ,AlertTwo,2,1
+Business Impact Analysis,AlertTwo,2,1
+By pass,AlertFive,5,1
+By-pass,AlertFive,5,1
+Byte,AlertOne,1,1
+CAC,AlertOne,1,1
+Cache,AlertOne,1,1
+Cache Cramming,AlertOne,1,1
+Cache Poisoning,AlertFour,4,1
+Cache Poisoning,AlertOne,1,1
+Call Admission Control,AlertOne,1,1
+Cell,AlertOne,1,1
+CERT,AlertOne,1,1
+Certificate-Based Authentication,AlertOne,1,1
+CGI,AlertOne,1,1
+Chain of Custody,AlertOne,1,1
+Challenge-Handshake Authentication Protocol,AlertOne,1,1
+CHAP,AlertOne,1,1
+Checksum,AlertOne,1,1
+Cipher,AlertOne,1,1
+Ciphertext,AlertOne,1,1
+Circuit Switched Network,AlertOne,1,1
+CISCO,AlertOne,1,1
+Client,AlertOne,1,1
+Cloud Computing,AlertOne,1,1
+Cold/Warm/Hot Disaster Recovery Site,AlertOne,1,1
+Collision,AlertOne,1,1
+Competitive Intelligence,AlertOne,1,1
+Computer Emergency Response Team,AlertOne,1,1
+Computer Network,AlertOne,1,1
+Confidentiality,AlertOne,1,1
+Configuration Management,AlertOne,1,1
+Cookie,AlertOne,1,1
+Corruption,AlertOne,1,1
+Cost Benefit Analysis,AlertOne,1,1
+Countermeasure,AlertOne,1,1
+Covert Channels,AlertOne,1,1
+CRC,AlertOne,1,1
+Credit card fraud,AlertFour,4,1
+Crimeware,AlertOne,1,1
+Critical new vulnerability,AlertFive,5,1
+Critical vulnerability,AlertFive,5,1
+Cron,AlertOne,1,1
+Crossover Cable,AlertOne,1,1
+Cryptanalysis,AlertOne,1,1
+Cryptographic Algorithm or Hash,AlertOne,1,1
+Csrf,AlertFour,4,1
+Cut-Through,AlertOne,1,1
+Cyber crime,AlertThree,3,1
+Cyclic Redundancy Check ,AlertOne,1,1
+DAC,AlertOne,1,1
+Daemon,AlertThree,3,1
+Data Aggregation,AlertThree,3,1
+Data Custodian,AlertThree,3,1
+Data Encryption Standard,AlertTwo,2,1
+Data Mining,AlertThree,3,1
+Data Owner,AlertTwo,2,1
+Data Warehousing,AlertThree,3,1
+Datagram,AlertOne,1,1
+Deadlock,AlertFive,5,1
+Decapsulation,AlertThree,3,1
+decrypt,AlertTwo,2,1
+Decryption,AlertOne,1,1
+Defacement,AlertThree,3,1
+Defense In-Depth,AlertThree,3,1
+Demilitarized Zone,AlertThree,3,1
+Denial of Service,AlertTwo,2,1
+DES,AlertOne,1,1
+DES,AlertOne,1,1
+Dictionary Attack,AlertFour,4,1
+Diffie-Hellman,AlertThree,3,1
+Digest Authentication,AlertTwo,2,1
+Digital Certificate,AlertOne,1,1
+Digital Envelope,AlertOne,1,1
+Digital Signature,AlertOne,1,1
+Digital Signature Algorithm,AlertOne,1,1
+Digital Signature Standard,AlertOne,1,1
+Disassembly,AlertOne,1,1
+Disaster Recovery Plan,AlertTwo,2,1
+discover,AlertOne,1,1
+Discover a vulnerability,AlertFive,5,1
+Discretionary Access Control ,AlertThree,3,1
+Disruption,AlertThree,3,1
+Distance Vector,AlertTwo,2,1
+Distributed Scans,AlertThree,3,1
+DMZ,AlertOne,1,1
+DNS,AlertOne,1,1
+Domain,AlertOne,1,1
+Domain Hijacking,AlertThree,3,1
+Domain Name,AlertOne,1,1
+Domain Name System,AlertOne,1,1
+DoS,AlertTwo,2,1
+DRP,AlertOne,1,1
+DSA,AlertOne,1,1
+DSS,AlertOne,1,1
+Due Care,AlertOne,1,1
+Due Diligence,AlertThree,3,1
+DumpSec,AlertThree,3,1
+Dumpster Diving,AlertThree,3,1
+Dynamic Link Library,AlertThree,3,1
+Dynamic Routing Protocol,AlertThree,3,1
+EAP,AlertOne,1,1
+Eavesdropping,AlertTwo,2,1
+Echo Reply,AlertTwo,2,1
+Echo Request,AlertTwo,2,1
+EGP,AlertOne,1,1
+EGP,AlertOne,1,1
+Egress Filtering,AlertTwo,2,1
+Emanations Analysis,AlertTwo,2,1
+Encapsulation,AlertTwo,2,1
+Encryption,AlertTwo,2,1
+Ephemeral Port,AlertTwo,2,1
+Escrow Passwords,AlertTwo,2,1
+Ethernet,AlertOne,1,1
+Ethernet,AlertOne,1,1
+Event,AlertTwo,2,1
+Exponential Backoff Algorithm,AlertTwo,2,1
+Exposure,AlertTwo,2,1
+Extended ACLs,AlertTwo,2,1
+Extensible Authentication Protocol ,AlertTwo,2,1
+Exterior Gateway Protocol,AlertTwo,2,1
+False Rejects,AlertFour,4,1
+Fast File System,AlertOne,1,1
+Fast Flux,AlertFour,4,1
+Fault Line Attacks,AlertFour,4,1
+File Transfer Protocol,AlertOne,1,1
+Filter,AlertOne,1,1
+Filtering Router,AlertOne,1,1
+Fingerprinting,AlertOne,1,1
+Firewall,AlertTwo,2,1
+Flooding,AlertFour,4,1
+Forest,AlertOne,1,1
+Fork Bomb,AlertFour,4,1
+Form-Based Authentication,AlertTwo,2,1
+Forward Lookup,AlertFour,4,1
+Forward Proxy,AlertFour,4,1
+Fragment Offset,AlertFour,4,1
+Fragment Overlap Attack,AlertFour,4,1
+Fragmentation,AlertFour,4,1
+Frames,AlertOne,1,1
+FTP,AlertOne,1,1
+Full Duplex,AlertFour,4,1
+Fully-Qualified Domain Name,AlertFour,4,1
+Fuzzing,AlertFour,4,1
+Gateway,AlertThree,3,1
+gethostbyaddr,AlertTwo,2,1
+gethostbyname,AlertTwo,2,1
+GNU,AlertOne,1,1
+Hack,AlertFour,4,1
+Hardening,AlertOne,1,1
+Hash Function,AlertOne,1,1
+Hash Functions,AlertOne,1,1
+Header,AlertOne,1,1
+Hijack Attack,AlertFour,4,1
+Honey Client,AlertOne,1,1
+Honey pot,AlertOne,1,1
+Honeymonkey,AlertOne,1,1
+Hops,AlertOne,1,1
+Host,AlertOne,1,1
+Host-Based ID,AlertOne,1,1
+HTML,AlertOne,1,1
+HTTP,AlertOne,1,1
+HTTP Proxy,AlertOne,1,1
+HTTPS,AlertOne,1,1
+Hub,AlertOne,1,1
+Hybrid Attack,AlertFour,4,1
+Hybrid Encryption,AlertOne,1,1
+Hyperlink,AlertOne,1,1
+Hypertext Markup Language ,AlertOne,1,1
+Hypertext Transfer Protocol ,AlertOne,1,1
+ICMP,AlertOne,1,1
+Identity,AlertOne,1,1
+IETF,AlertOne,1,1
+IMAP,AlertOne,1,1
+Incidence response,AlertTwo,2,1
+Incident,AlertThree,3,1
+Incident Handling,AlertThree,3,1
+Incremental Backups,AlertThree,3,1
+Inetd,AlertThree,3,1
+Inference Attack,AlertFour,4,1
+Information Warfare,AlertThree,3,1
+Ingress Filtering,AlertThree,3,1
+Input validation,AlertOne,1,1
+Input Validation Attacks,AlertFour,4,1
+Integer Overflow,AlertFive,5,1
+Integrity,AlertThree,3,1
+Integrity Star Property,AlertThree,3,1
+Internet,AlertOne,1,1
+Internet Control Message Protocol,AlertThree,3,1
+Internet Engineering Task Force ,AlertThree,3,1
+Internet Message Access Protocol,AlertThree,3,1
+Internet Protocol ,AlertOne,1,1
+Internet Protocol Security,AlertThree,3,1
+Internet Standard,AlertThree,3,1
+Interrupt,AlertThree,3,1
+Intranet,AlertTwo,2,1
+Intrusion Detection,AlertThree,3,1
+IP,AlertOne,1,1
+IP Address,AlertOne,1,1
+IP Flood,AlertThree,3,1
+IP Forwarding,AlertThree,3,1
+IP Spoofing,AlertThree,3,1
+IPS,AlertOne,1,1
+IPSec,AlertOne,1,1
+ISO,AlertThree,3,1
+Issue-Specific Policy,AlertThree,3,1
+ITU-T,AlertThree,3,1
+Jitter,AlertOne,1,1
+Jump Bag,AlertTwo,2,1
+Kerberos,AlertOne,1,1
+Kernel,AlertOne,1,1
+L2F,AlertOne,1,1
+L2TP,AlertOne,1,1
+Lattice Techniques,AlertOne,1,1
+Layer 2 Forwarding Protocol,AlertOne,1,1
+Layer 2 Tunneling Protocol,AlertOne,1,1
+LDAP,AlertOne,1,1
+Least Privilege,AlertOne,1,1
+Legion,AlertOne,1,1
+Lightweight Directory Access Protocol,AlertOne,1,1
+Link State,AlertOne,1,1
+List Based Access Control,AlertTwo,2,1
+LKM,AlertOne,1,1
+Loadable Kernel Modules,AlertOne,1,1
+Log Clipping,AlertFour,4,1
+Logic bombs,AlertFive,5,1
+Logic Gate,AlertOne,1,1
+Logs,AlertTwo,2,1
+Loopback Address,AlertOne,1,1
+MAC,AlertOne,1,1
+MAC Address,AlertOne,1,1
+Malicious,AlertThree,3,1
+Malicious Code,AlertFour,4,1
+Malicious script,AlertFour,4,1
+Malware,AlertFour,4,1
+Mandatory Access Control,AlertTwo,2,1
+Masquerade Attack,AlertFive,5,1
+Md5,AlertOne,1,1
+Measures of Effectiveness,AlertFour,4,1
+MOE,AlertOne,1,1
+Monoculture,AlertOne,1,1
+Morris Worm,AlertTwo,2,1
+Multi-Cast,AlertOne,1,1
+Multi-Homed,AlertOne,1,1
+Multiplexing,AlertOne,1,1
+NAT,AlertOne,1,1
+National Institute of Standards and Technology,AlertOne,1,1
+Natural Disaster,AlertTwo,2,1
+Needs a patch,AlertFive,5,1
+Netmask,AlertOne,1,1
+Network Address Translation,AlertOne,1,1
+Network Mapping,AlertThree,3,1
+Network Taps,AlertOne,1,1
+Network-Based IDS,AlertOne,1,1
+New critical vulnerability,AlertFive,5,1
+New vulnerability,AlertFive,5,1
+NIST,AlertOne,1,1
+Non-Printable Character,AlertFive,5,1
+Non-Repudiation,AlertFive,5,1
+not detected,AlertThree,3,1
+Null Session,AlertTwo,2,1
+Octet,AlertOne,1,1
+One-Way Encryption,AlertOne,1,1
+One-Way Function,AlertOne,1,1
+Open Shortest Path First,AlertOne,1,1
+Open Systems Interconnection,AlertOne,1,1
+OSI,AlertOne,1,1
+OSPF,AlertOne,1,1
+Out-of-Bounds Write/Read,AlertFive,5,1
+Overload,AlertThree,3,1
+packet,AlertOne,1,1
+Packet Switched Network,AlertTwo,2,1
+PAP,AlertOne,1,1
+Partitions,AlertFour,4,1
+Password Authentication Protocol ,AlertFour,4,1
+Password Cracking,AlertFour,4,1
+Password Sniffing,AlertFour,4,1
+Patch,AlertFour,4,1
+Patching,AlertFour,4,1
+Payload,AlertFour,4,1
+Payment Card Industry Security Standards Council,AlertOne,1,1
+PCI,AlertOne,1,1
+Penetration,AlertFour,4,1
+Penetration Testing,AlertFour,4,1
+Perl,AlertOne,1,1
+Permutation,AlertFour,4,1
+Personal Firewalls,AlertFour,4,1
+PFS,AlertOne,1,1
+PGP,AlertOne,1,1
+Pharming,AlertFour,4,1
+Phishing,AlertFour,4,1
+Ping of Death,AlertFour,4,1
+Ping Scan,AlertFour,4,1
+Ping Sweep,AlertFour,4,1
+PKI,AlertOne,1,1
+Plaintext,AlertFour,4,1
+Point-to-Point Protocol ,AlertFour,4,1
+Point-to-Point Tunneling Protocol ,AlertFour,4,1
+Poison Reverse,AlertFour,4,1
+Polyinstantiation,AlertOne,1,1
+Polymorphism,AlertOne,1,1
+POP3,AlertOne,1,1
+Port,AlertOne,1,1
+Port Scan,AlertOne,1,1
+Possession,AlertFour,4,1
+"Post Office Protocol, Version 3",AlertFour,4,1
+PPP,AlertOne,1,1
+PPTP,AlertOne,1,1
+Practical Extraction and Reporting Language,AlertFour,4,1
+Preamble,AlertOne,1,1
+Pretty Good Privacy,AlertOne,1,1
+Private Addressing,AlertFour,4,1
+Privilege escalation,AlertFive,5,1
+Privilege escalation,AlertFour,4,1
+Program Infector,AlertFour,4,1
+Program Policy,AlertFour,4,1
+Promiscuous Mode,AlertFour,4,1
+Proprietary Information,AlertFour,4,1
+Protocol,AlertOne,1,1
+Protocol Stacks ,AlertFour,4,1
+Proxy Server,AlertFour,4,1
+Public Key,AlertFour,4,1
+Public Key Encryption,AlertFour,4,1
+Public Key Infrastructure ,AlertFour,4,1
+Public-Key Forward Secrecy,AlertFour,4,1
+Race condition,AlertOne,1,1
+Race Condition,AlertThree,3,1
+Radiation Monitoring,AlertThree,3,1
+Ransomware,AlertThree,3,1
+RARP,AlertThree,3,1
+Reconnaissance,AlertThree,3,1
+Reflexive ACLs ,AlertThree,3,1
+Registry,AlertOne,1,1
+regression analysis,AlertThree,3,1
+Remote code execution,AlertFive,5,1
+Request for Comment,AlertOne,1,1
+Request Forgery,AlertFive,5,1
+Resource Exhaustion,AlertThree,3,1
+Response,AlertOne,1,1
+Reverse Address Resolution Protocol,AlertThree,3,1
+Reverse Engineering,AlertThree,3,1
+Reverse Lookup,AlertThree,3,1
+Reverse Proxy,AlertThree,3,1
+RFC,AlertOne,1,1
+RIP,AlertOne,1,1
+Risk,AlertThree,3,1
+Risk Assessment,AlertTwo,2,1
+Rivest-Shamir-Adleman,AlertThree,3,1
+Role Based Access Control,AlertThree,3,1
+Root,AlertTwo,2,1
+Rootkit,AlertTwo,2,1
+Router,AlertOne,1,1
+Routing Information Protocol,AlertOne,1,1
+Routing Loop,AlertThree,3,1
+RPC Scans,AlertThree,3,1
+RSA,AlertThree,3,1
+RSBAC,AlertThree,3,1
+Rule Set Based Access Control ,AlertThree,3,1
+S/Key,AlertTwo,2,1
+Safety,AlertOne,1,1
+Scavenging,AlertTwo,2,1
+Secure Electronic Transactions ,AlertTwo,2,1
+Secure Shell ,AlertTwo,2,1
+Secure Sockets Layer ,AlertTwo,2,1
+Security Breach,AlertFive,5,1
+Security Policy,AlertOne,1,1
+Segment,AlertTwo,2,1
+Sensitive Information,AlertThree,3,1
+Separation of Duties,AlertTwo,2,1
+Server,AlertOne,1,1
+Session,AlertOne,1,1
+Session Hijacking,AlertFour,4,1
+Session Key,AlertTwo,2,1
+SET,AlertTwo,2,1
+SHA1,AlertOne,1,1
+Shadow Password Files,AlertTwo,2,1
+Share,AlertOne,1,1
+Shell,AlertOne,1,1
+Signals Analysis,AlertTwo,2,1
+Signature,AlertOne,1,1
+Simple Integrity Property,AlertTwo,2,1
+Simple Network Management Protocol,AlertOne,1,1
+Simple Security Property,AlertTwo,2,1
+Smartcard,AlertOne,1,1
+Smuggling attack,AlertFive,5,1
+Smurf,AlertTwo,2,1
+Sniffer,AlertTwo,2,1
+Sniffing,AlertTwo,2,1
+SNMP,AlertOne,1,1
+Social Engineering,AlertTwo,2,1
+Socket,AlertOne,1,1
+Socket Pair,AlertTwo,2,1
+SOCKS,AlertTwo,2,1
+Software,AlertOne,1,1
+Source Port,AlertTwo,2,1
+Spam,AlertTwo,2,1
+Spanning Port,AlertTwo,2,1
+Split Horizon,AlertTwo,2,1
+Split Key,AlertTwo,2,1
+Spoof,AlertFive,5,1
+Spoof,AlertTwo,2,1
+SQL Injection,AlertFour,4,1
+SSH,AlertTwo,2,1
+SSL,AlertTwo,2,1
+Stack Mashing,AlertTwo,2,1
+Standard ACLs,AlertTwo,2,1
+Star Property,AlertTwo,2,1
+State Machine,AlertTwo,2,1
+Stateful Inspection,AlertTwo,2,1
+Static Host Tables,AlertTwo,2,1
+Static Routing,AlertTwo,2,1
+Stealthing,AlertTwo,2,1
+Steganalysis,AlertTwo,2,1
+Steganography,AlertTwo,2,1
+Stimulus,AlertTwo,2,1
+Store-and-Forward,AlertTwo,2,1
+Straight-Through Cable,AlertTwo,2,1
+Stream Cipher,AlertTwo,2,1
+Strong Star Property,AlertTwo,2,1
+Sub Network,AlertOne,1,1
+Subnet Mask,AlertOne,1,1
+suspicious activity,AlertFour,4,1
+Switch,AlertOne,1,1
+Switched Network,AlertTwo,2,1
+Symbolic Links,AlertTwo,2,1
+Symmetric Cryptography,AlertTwo,2,1
+Symmetric Key,AlertTwo,2,1
+SYN Flood,AlertTwo,2,1
+Synchronization,AlertTwo,2,1
+Syslog,AlertTwo,2,1
+System Security Officer,AlertTwo,2,1
+System-Specific Policy,AlertTwo,2,1
+Tamper,AlertOne,1,1
+TCP,AlertOne,1,1
+TCP Fingerprinting,AlertOne,1,1
+TCP Full Open Scan,AlertOne,1,1
+TCP Half Open Scan,AlertOne,1,1
+TCP Wrapper,AlertOne,1,1
+TCP/IP,AlertOne,1,1
+TCPDump,AlertOne,1,1
+TELNET,AlertOne,1,1
+Threat,AlertFour,4,1
+Threat Assessment,AlertOne,1,1
+Threat Model,AlertOne,1,1
+Threat Vector,AlertFour,4,1
+threatening,AlertFour,4,1
+Time to Live,AlertOne,1,1
+Tiny Fragment Attack,AlertFour,4,1
+TLS,AlertOne,1,1
+Token Ring,AlertOne,1,1
+Token-Based Access Control,AlertTwo,2,1
+Token-Based Devices,AlertTwo,2,1
+Topology,AlertOne,1,1
+Traceroute,AlertOne,1,1
+tracert.exe,AlertOne,1,1
+Transmission Control Protocol,AlertOne,1,1
+Transport Layer Security,AlertOne,1,1
+Transversal vulnerability,AlertFive,5,1
+Triple DES,AlertOne,1,1
+Triple-Wrapped,AlertOne,1,1
+Trojan,AlertFour,4,1
+Trojan Horse,AlertOne,1,1
+Trunking,AlertOne,1,1
+Trust,AlertOne,1,1
+Trusted Ports,AlertOne,1,1
+Tunnel,AlertOne,1,1
+UDP,AlertOne,1,1
+UDP Scan,AlertOne,1,1
+Unauthenticated,AlertFive,5,1
+Unauthenticated,AlertFour,4,1
+undetected,AlertThree,3,1
+Unicast,AlertOne,1,1
+Uniform Resource Identifier,AlertOne,1,1
+Uniform Resource Locator,AlertOne,1,1
+Unix,AlertOne,1,1
+Unprotected Share,AlertFour,4,1
+URL,AlertOne,1,1
+User,AlertOne,1,1
+User Contingency Plan,AlertOne,1,1
+User Datagram Protocol,AlertOne,1,1
+Virtual Private Network,AlertOne,1,1
+Virus,AlertOne,1,1
+Virus,AlertThree,3,1
+Voice Firewall,AlertOne,1,1
+Voice Intrusion Prevention System,AlertOne,1,1
+VPN,AlertOne,1,1
+Vulnerability,AlertFour,4,1
+W3,AlertOne,1,1
+War Chalking,AlertThree,3,1
+War Dialer,AlertThree,3,1
+War Dialing,AlertThree,3,1
+War Driving,AlertThree,3,1
+Web ,AlertOne,1,1
+Web of Trust,AlertOne,1,1
+Web Server,AlertOne,1,1
+WEP,AlertOne,1,1
+WHOIS,AlertOne,1,1
+Windowing,AlertOne,1,1
+Windump,AlertOne,1,1
+Wired Equivalent Privacy,AlertOne,1,1
+Wireless Application Protocol,AlertOne,1,1
+Wiretapping,AlertOne,1,1
+World Wide Web ,AlertOne,1,1
+Worm,AlertFour,4,1
+WWW,AlertOne,1,1
+xinetd,AlertOne,1,1
+XML external entities,AlertThree,3,1
+Xsrf,AlertFive,5,1
+XSS,AlertFour,4,1
+Zero Day,AlertFive,5,1
+Zero-Day,AlertFive,5,1
